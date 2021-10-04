@@ -2,7 +2,7 @@ module.exports = {
   title: `vinhnotes`,
   description: `A blog ...`,
   author: `vinhvd`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  introduction: `Nothing here.`,
   siteUrl: `https://vinhnotes.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -12,17 +12,17 @@ module.exports = {
     linkedin: ``, // Your LinkedIn account
     instagram: ``, // Your Instagram account
   },
-  icon: ``, // Add your favicon
+  icon: `content/assets/vinhnotes.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'vinhnotes/blog', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'vinhnotes',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
